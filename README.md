@@ -4,7 +4,8 @@
 ===============================================
 
 
-## Information on Datasets:
+## Information on Datasets
+---
 ### ancestry-readme.txt
 A cardiologist makes a partial diagnoses for each of the 22 Regions of Interest (ROIs). These partial diagnosis were mechanical to generate and could be performed by a trained nurse. 0 is a negative diagnosis (healthy), 1 is a positive diagnosis (unhealthy).  
 
